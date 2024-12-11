@@ -68,6 +68,6 @@ Bu fonksiyon, belirli bir hedef IP adresi üzerinde port taraması yapar ve 1 il
    ```bash
    pip install cryptography nmap
 
-#Uygulama Ekranı
+# 💻Uygulama Ekranı
 ![image alt](https://github.com/berrysu42/Ag_Guvenligi_Similasyonu/blob/562886578b683ea55d26ca6a897e1dc887003304/AgSimilasyonu.png)
 
